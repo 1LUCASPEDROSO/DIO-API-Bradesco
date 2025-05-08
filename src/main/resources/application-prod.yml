@@ -4,7 +4,6 @@ spring:
       version: 3.0.1
   datasource:
     url: jdbc:postgresql://${URL}
-    #jdbc:postgresql://postgres:ladCwrOptmkkkIPbUumSDrckzdTjVIwl@caboose.proxy.rlwy.net:19109/railway
     username: ${PGUSER}
     password: ${PGPASSWORD}
   jpa:
