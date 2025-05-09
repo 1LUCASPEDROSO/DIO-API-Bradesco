@@ -1,4 +1,4 @@
-# Santander Dev Week 2023 Java API
+# DIO-API-BANCARIA
 
 RESTful API com Desenvolvimento para simulação de criação de conta em sistema bancário. para uso de perfis de desenvolimento diferentes, como o perfil de Dev utilizando banco de dados H2 em memório e perfil de produção com deploy e postgreSQL
 
